@@ -71,6 +71,10 @@ data-warehouse-project/
 │
 ├── tests/                              # Test scripts and quality files
 │
+├
+│
+├── analysis/                           # SQL scripts for data analysis and EDA
+│
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
